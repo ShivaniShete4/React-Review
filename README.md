@@ -1,4 +1,4 @@
-# This simple project showcases how to build clean,neat react js review card.
+# This simple project showcases how to build clean and neat react js review card.
 
  The card contains name, profile photo, designation and description of the user. 
  
